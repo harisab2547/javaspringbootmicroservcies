@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springJavaMicroservices.iml" filepath="$PROJECT_DIR$/.idea/springJavaMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FitnessspringJavaMicroservices.iml" filepath="$PROJECT_DIR$/.idea/FitnessspringJavaMicroservices.iml" />
     </modules>
   </component>
 </project>
